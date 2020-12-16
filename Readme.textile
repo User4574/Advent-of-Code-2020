@@ -1,3 +1,8 @@
 h1. Advent of Code Solutions 2020
 
-p. I haven't settled on a structure or theme for this year yet, so things are a bit of a mess.
+p. The theme this year is "have fun and get it done" rather than "learn a thing" or "do it a particular way", so of course it's all just Ruby.
+
+h2. Running
+
+bc.. $ cd dayXX
+$ ruby partY.rb < input
